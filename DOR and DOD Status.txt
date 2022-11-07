@@ -1,0 +1,11 @@
+1- Definition of done is that task ( Code written for example) : 
+-Code is written, has no syntax error, and runs and create outputs
+- Tested and secure
+- working as expected
+- feature is ready to be implented and released 
+
+2-Definition of ready:
+- Have all information gathered to start
+-have the the right capacity to work on task
+-have the right amount of time to start and finish
+-have clear overview of requirements to start
